@@ -29,3 +29,8 @@ cd
 pwd
 pwd
 mkdir a2
+git add .
+pwd
+git add .
+git commit -m"last update"
+git push
