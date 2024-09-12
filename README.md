@@ -9,7 +9,7 @@ https://mm20u@bitbucket.org/marcus_martin/lis4381.git
 
 *Course Work Links:*
 
-1. [A1 README.md](a1/README.md "My A1 README.md file")
+1. [A1 README.md](a1/A1_README.md "My A1 README.md file")
     - Install AMPPS
     - Install jdK
     - Install Android  Studio & create my first app
