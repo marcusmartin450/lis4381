@@ -1,6 +1,6 @@
 > **NOTE:** This README.md file should be placed at the **root of each of your main directory.**
 
-# Class number and name
+# Mobile Web App development
 
 ## Marcus Martin
 
