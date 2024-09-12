@@ -34,3 +34,12 @@ pwd
 git add .
 git commit -m"last update"
 git push
+pwd
+git add .
+git add .
+git commit-m"readme update"
+git commit -m"update readme"
+git push
+git add .
+git commit -m"readme update"
+git push

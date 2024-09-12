@@ -1,9 +1,8 @@
 > **NOTE:** This README.md file should be placed at the **root of each of your main directory.**
 
-# LIS4381
+# LIS4381 Mobile Web App Development 
 
 ## Marcus Martin 
-https://mm20u@bitbucket.org/marcus_martin/lis4381.git
 
 ### Class Number Requirements: LIS4381
 
