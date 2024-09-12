@@ -18,5 +18,13 @@
       ![alt text](<Screenshot (9).png>)
 
       ![alt text](<Screenshot (11).png>)
+
+      1. git init - Initializes a new git repo 
+      2. git status - displays state of pwd
+      3. git add -  Adds a change to working directory 
+      4. git commit - saves changes in repo
+      5. git push - sends local repo to remote repo 
+      6. git pull - pulls data from remote repo 
+      7.  git revert- reverses last commit 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
 
