@@ -4,46 +4,32 @@
 
 ## Marcus Martin 
 
-### Class Number Requirements: LIS4381
+### Class Number: LIS4381
 
 *Course Work Links:*
 
-https://bitbucket.org/marcus_martin/lis4381/src/master/a3/docs/a3.mwb
 
-https://bitbucket.org/marcus_martin/lis4381/src/master/a3/docs/a3.sql
+1. [A1 README.md](a1/README.md "My A1 README.md file")
+    - Install AMPPS
+    - Install JDK
+    - Install android studio code and create my first app
+    - Create bitbucket repo 
+    ![alt text](<Screenshot (10).png>)
 
-1. [A1 README.md](a1/A1_README.md "My A1 README.md file")
-        - Install AMPPS
-        - Install JDK
-        - Install android studio code and create my first app
-        - Create bitbucket repo 
+      ![alt text](<Screenshot (9).png>)
 
-        ![alt text](<Screenshot (10)-1.png>)
+      ![alt text](<Screenshot (11).png>)
 
-        
-        c:\repos\lis4381\a1\Screenshot (9).png
-
-
-        c:\repos\lis4381\a1\Screenshot (11).png
-        
-        
-
-
-
+      1. git init - Initializes a new git repo 
+      2. git status - displays state of pwd
+      3. git add -  Adds a change to working directory 
+      4. git commit - saves changes in repo
+      5. git push - sends local repo to remote repo 
+      6. git pull - pulls data from remote repo 
+      7.  git revert- reverses last commit 
 
         
-        
-        
-        
-        
-    
-          1. git init - Initializes a new git repo 
-          2. git status - displays state of pwd
-          3. git add -  Adds a change to working directory 
-          4. git commit - saves changes in repo
-          5. git push - sends local repo to remote repo 
-          6. git pull - pulls data from remote repo 
-          7.  git revert- reverses last commit 
+         
 
 
 
@@ -51,6 +37,12 @@ https://bitbucket.org/marcus_martin/lis4381/src/master/a3/docs/a3.sql
 
 
 
+
+*Course Work Links:*
+
+https://bitbucket.org/marcus_martin/lis4381/src/master/a3/docs/a3.mwb
+
+https://bitbucket.org/marcus_martin/lis4381/src/master/a3/docs/a3.sql
 
 3.[A3 README.md](a1/README.md "My A3 README.md file")
     - Create and Populate database
