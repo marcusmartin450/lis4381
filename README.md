@@ -17,11 +17,25 @@ https://bitbucket.org/marcus_martin/lis4381/src/master/a3/docs/a3.sql
         - Install JDK
         - Install android studio code and create my first app
         - Create bitbucket repo 
-        ![alt text](<Screenshot (10).png>)
-    
-        ![alt text](<Screenshot (9).png>)
-    
-        ![alt text](<Screenshot (11).png>)
+
+        ![alt text](<Screenshot (10)-1.png>)
+
+        
+        c:\repos\lis4381\a1\Screenshot (9).png
+
+
+        c:\repos\lis4381\a1\Screenshot (11).png
+        
+        
+
+
+
+
+        
+        
+        
+        
+        
     
           1. git init - Initializes a new git repo 
           2. git status - displays state of pwd
@@ -43,14 +57,12 @@ https://bitbucket.org/marcus_martin/lis4381/src/master/a3/docs/a3.sql
     - Build app with user interactibility 
     - Have app calculate ticket price
 
-    ![alt text](<Screenshot (22).png>)
-      
-    ![alt text](<Screenshot (18).png>)
-
-    ![alt text](<Screenshot (21).png>)
-
-    ![alt text](<Screenshot (23).png>)
-
-    ![alt text](<Screenshot (24).png>)
-
-    ![alt text](<Screenshot (19).png>)
+   ![alt text](<Screenshot (22).png>)
+   ![alt text](<Screenshot (18).png>)
+   ![alt text](<Screenshot (23).png>)
+   ![alt text](<Screenshot (21).png>)
+   ![alt text](<Screenshot (24).png>)
+   ![alt text](<Screenshot (19).png>)
+   ![alt text](<decisionsstructuresproblemset 6.png>)
+   ![alt text](methodsproblemset6.png)
+   ![alt text](randomnumgenproblemset5.png)
