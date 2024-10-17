@@ -8,24 +8,25 @@
 
 *Course Work Links:*
 
+https://bitbucket.org/marcus_martin/lis4381/src/master/a3/docs/a3.mwb
+
+https://bitbucket.org/marcus_martin/lis4381/src/master/a3/docs/a3.sql
+
+
+
 1. [A3 README.md](a1/README.md "My A3 README.md file")
     - Create and Populate database
     - Build app with user interactibility 
     - Have app calculate ticket price
-    
-      ![alt text](file:///c%3A/repos/lis4381/a3/Screenshots/Screenshot%20%2822%29.png)
 
-      ![alt text](file:///c%3A/repos/lis4381/a3/Screenshots/Screenshot%20%2818%29.png)
+    ![alt text](<Screenshot (22).png>)
+      
+    ![alt text](<Screenshot (18).png>)
 
-      ![alt text](file:///c%3A/repos/lis4381/a3/Screenshots/Screenshot%20%2821%29.png)
+    ![alt text](<Screenshot (21).png>)
 
-      ![alt text](file:///c%3A/repos/lis4381/a3/Screenshots/Screenshot%20%2823%29.png)
+    ![alt text](<Screenshot (23).png>)
 
-      ![alt text](file:///c%3A/repos/lis4381/a3/Screenshots/Screenshot%20%2824%29.png)
+    ![alt text](<Screenshot (24).png>)
 
-      ![alt text](file:///c%3A/repos/lis4381/a3/Screenshots/Screenshot%20%2819%29.png)
-
-
-
-
-     
+    ![alt text](<Screenshot (19).png>)
