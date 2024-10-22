@@ -22,4 +22,6 @@ https://bitbucket.org/marcus_martin/lis4381/src/master/a3/docs/a3.sql
 
     ![alt text](<Screenshot (19)-1.png>) ![alt text](<Screenshot (21)-1.png>) ![alt text](<Screenshot (22)-1.png>) ![alt text](<Screenshot (23)-1.png>) ![alt text](<Screenshot (24)-1.png>) ![alt text](<Screenshot (18)-1.png>)
 
+    ![alt text](methodsproblemset6.png) ![alt text](randomnumgenproblemset5.png) ![alt text](<decisionsstructuresproblemset 6.png>)
+    
    
