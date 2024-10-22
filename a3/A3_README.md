@@ -4,8 +4,6 @@
 
 ## Marcus Martin
 
-### Class Number Requirements: LIS4381
-
 *Course Work Links:*
 
 https://bitbucket.org/marcus_martin/lis4381/src/master/a3/docs/a3.mwb
@@ -19,20 +17,11 @@ https://bitbucket.org/marcus_martin/lis4381/src/master/a3/docs/a3.sql
     - Build app with user interactibility 
     - Have app calculate ticket price
 
-    ![alt text](<Screenshot (22).png>)
-      
+   ![alt text](randomnumgenproblemset5-1.png)
     ![alt text](<Screenshot (18).png>)
+     ![alt text](<Screenshot (19).png>) 
 
-    ![alt text](<Screenshot (21).png>)
+    ![alt text](<Screenshot (22).png>)
 
-    ![alt text](<Screenshot (23).png>)
-
-    ![alt text](<Screenshot (24).png>)
-
-    ![alt text](<Screenshot (19).png>)
-
-    ![alt text](<decisionsstructuresproblemset 6.png>) 
-    
-    ![alt text](randomnumgenproblemset5-1.png)
-
-    ![alt text](methodsproblemset6-1.png)
+     ![alt text](methodsproblemset6-1.png) 
+     ![alt text](randomnumgenproblemset5.png)

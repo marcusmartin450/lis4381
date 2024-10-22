@@ -1,6 +1,6 @@
 > **NOTE:** This README.md file should be placed at the **root of each of your main directory.**
 
-# LIS4381 Mobile Web App Development 
+# Mobile Web App Development 
 
 ## Marcus Martin 
 
@@ -15,7 +15,6 @@
     - Install android studio code and create my first app
     - Create bitbucket repo 
   
-![alt text](<Screenshot (10).png>) ![alt text](<Screenshot (11).png>) ![alt text](<Screenshot (9).png>)
       1. git init - Initializes a new git repo 
       2. git status - displays state of pwd
       3. git add -  Adds a change to working directory 
@@ -29,7 +28,7 @@
 
 
 
-2. [A2 README.md](a2/README.md "My A2 README.md file")
+2. [A3 README.md](a3/README.md "My A3 README.md file")
 
 
 
