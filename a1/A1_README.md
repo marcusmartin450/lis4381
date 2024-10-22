@@ -21,7 +21,8 @@
       5. git push - sends local repo to remote repo 
       6. git pull - pulls data from remote repo 
       7.  git revert- reverses last commit 
-2. [A3 README.md](a3/A3_README.md "My A3 README.md file")
+
+
 
     
-
+      ![alt text](<Screenshot (10)-1.png>) ![alt text](<Screenshot (11)-1.png>) ![alt text](<Screenshot (9)-1.png>)
