@@ -15,8 +15,11 @@ https://bitbucket.org/marcus_martin/lis4381/src/master/a3/docs/a3.sql
 
 
 1. [A3 README.md](a3/A3_README.md "My A3 README.md file")
+    
     - Create and Populate database
+    
     - Build app with user interactibility 
+    
     - Have app calculate ticket price
 
 

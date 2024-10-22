@@ -28,20 +28,15 @@
 
 
 
-2. [A3 README.md](a3/A3_README.md "My A3 README.md file")
+2. [A2 README.md](a3/A2_README.md "My A2 README.md file")
 
 
+3. [A3 README.md](a3/A3_README.md "My A3 README.md file")
 
+   Coursework Links:
 
-*Course Work Links:*
-
-https://bitbucket.org/marcus_martin/lis4381/src/master/a3/docs/a3.mwb
-
-https://bitbucket.org/marcus_martin/lis4381/src/master/a3/docs/a3.sql
-
-3.[A3 README.md](a3/A3_README.md "My A3 README.md file")
-    - Create and Populate database
-    - Build app with user interactibility 
-    - Have app calculate ticket price
+   - Create and Populate database
+   - Build app with user interactibility 
+   - Have app calculate ticket price
 
    
