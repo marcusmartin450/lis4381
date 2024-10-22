@@ -28,7 +28,7 @@
 
 
 
-2. [A3 README.md](a3/README.md "My A3 README.md file")
+2. [A3 README.md](a3/A3_README.md "My A3 README.md file")
 
 
 
@@ -39,10 +39,9 @@ https://bitbucket.org/marcus_martin/lis4381/src/master/a3/docs/a3.mwb
 
 https://bitbucket.org/marcus_martin/lis4381/src/master/a3/docs/a3.sql
 
-3.[A3 README.md](a1/README.md "My A3 README.md file")
+3.[A3 README.md](a3/A3_README.md "My A3 README.md file")
     - Create and Populate database
     - Build app with user interactibility 
     - Have app calculate ticket price
 
-   ![alt text](<Screenshot (19)-1.png>) ![alt text](<Screenshot (21).png>) ![alt text](<Screenshot (22)-1.png>) ![alt text](<Screenshot (23).png>) ![alt text](<Screenshot (24).png>) ![alt text](<Screenshot (18)-1.png>)
-   ![alt text](methodsproblemset6.png) ![alt text](randomnumgenproblemset5-1.png) ![alt text](<decisionsstructuresproblemset 6.png>)
+   
