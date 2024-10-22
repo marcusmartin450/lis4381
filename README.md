@@ -9,7 +9,7 @@
 *Course Work Links:*
 
 
-1. [A1 README.md](a1/README.md "My A1 README.md file")
+1. [A1 README.md](a1/A1_README.md "My A1 README.md file")
     - Install AMPPS
     - Install JDK
     - Install android studio code and create my first app
