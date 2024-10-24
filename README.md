@@ -36,4 +36,9 @@
     - Build app with user interactibility 
     - Have app calculate ticket price
 
+   4. [P1 README.md](P1/P1_README.md "My P1 README.md file")
+    - Make Launcher Icon
+    - Add Borders to Image and Button
+    - Add background color  
+
    
