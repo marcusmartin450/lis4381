@@ -14,4 +14,9 @@
     - Add background color  
 
 
-    ![alt text](firstbusiness.png) ![alt text](largestarr.png) ![alt text](largestThree.png) ![alt text](randomNumgen.png) ![alt text](secondbusiness.png)
+##### Assignment Screenshots
+
+    ![First business card](firstbusiness.png) ![Second Business Card](secondbusiness.png)
+
+     *Screenshots of Problem sets*
+     ![largest array](largestarr.png) ![alt largestthreenumbers](largestThree.png) ![Randon # Generator](randomNumgen.png) 
