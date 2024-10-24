@@ -19,4 +19,10 @@
 ![First business card](img/firstbusiness.png) ![Second Business Card](img/secondbusiness.png)
 
 *Screenshots of Problem sets*
- ![largest array](img/largestarr.png) ![largestthreenumbers](img/largestThree.png) ![Randon # Generator](img/randomNumgen.png) 
+
+ *Largest Array*
+ ![largest array](img/largestarr.png) 
+ *Largest three Numbers*
+ ![largestthreenumbers](img/largestThree.png)
+ *Random number Generator*
+  ![Randon # Generator](img/randomNumgen.png) 
