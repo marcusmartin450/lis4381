@@ -16,7 +16,7 @@
 
 ##### Assignment Screenshots
 
-    ![First business card](img/firstbusiness.png) ![Second Business Card](img/secondbusiness.png)
+![First business card](img/firstbusiness.png) ![Second Business Card](img/secondbusiness.png)
 
-     *Screenshots of Problem sets*
-     ![largest array](img/largestarr.png) ![largestthreenumbers](img/largestThree.png) ![Randon # Generator](img/randomNumgen.png) 
+*Screenshots of Problem sets*
+ ![largest array](img/largestarr.png) ![largestthreenumbers](img/largestThree.png) ![Randon # Generator](img/randomNumgen.png) 
