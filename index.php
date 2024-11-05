@@ -73,27 +73,25 @@
 							<div class="active item" style="background: url(img/orangecode.jpg) no-repeat left center; background-size: cover;">
 								<div class="container">
 									<div class="carousel-caption">
-										<h3>First slide </h3>
-										<p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+										<h3>Welcome to my Portfolio </h3>
+										<p class="lead">This will direct you to my LinkedIN</p>
                         </div>
                       </div>
                     </div>
               
-							<div class="item">
-								<h2>Slide 2</h2>
+							<div class="item" style="background: url(img/bitbucket.jpg) no-repeat left center; background-size: cover;">
+								<h2>My Bitbucket</h2>
 								<div class="carousel-caption">
-									<h3>Second slide label</h3>
-									<p>Aliquam sit amet gravida nibh, facilisis gravida odio.</p>
-									<img src="img/slide2.png" alt="Slide 2">									
+									<h3>Bitbucket Repo</h3>
+									<p>Click the anywhere on the picture to view my BitBucket Repo!!.</p>									
 								</div>
 							</div>
 
-							<div class="item">
-								<h2>Slide 3</h2>
+							<div class="active item" style="background: url(img/orangefile.jpeg) no-repeat left center; background-size: cover;">
+								<h2>Learn web developement</h2>
 								<div class="carousel-caption">
-									<h3>Third slide label</h3>
-									<p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-									<img src="img/slide3.png" alt="Slide 3">									
+									<h3>Free Resources for web development</h3>
+									<p>Click the picture to view free resources</p>								
 								</div>
 							</div>
 
