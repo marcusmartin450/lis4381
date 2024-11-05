@@ -15,14 +15,14 @@
 
     ##### Assignment Screenshots
 
-![First business card](img/errorvalid.png) 
-![Second Business Card](img/valid.png)
+![Invalid Immage](img/errorvalid.png) 
+![Valid Data](img/valid.png)
 
 *Screenshots of Problem sets*
 
- *Largest Array*
- ![largest array](img/largestarr.png) 
- *Largest three Numbers*
- ![largestthreenumbers](img/largestThree.png)
- *Random number Generator*
-  ![Randon # Generator](img/randomNumgen.png) 
+ *Array List*
+ ![Array List](img/arraylist.png) 
+ *Alpha Numeric*
+ ![Alpha numeric](img/alphanumeric.png)
+ *Temperature Conversion*
+  ![Temperature Converter](img/tempconversion.png) 
