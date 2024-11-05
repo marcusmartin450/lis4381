@@ -41,4 +41,9 @@ Updated 11/4 905
     - Add Borders to Image and Button
     - Add background color  
 
+   5. [A4 README.md](a4/A4_README.md "My A4 README.md file")
+    - Clone a repository
+    - Add Jquery Validation
+    - Create a favicon
+
    
