@@ -5,7 +5,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" content="My online portfolio that illustrates skills acquired while working through various project requirements.">
-		<meta name="author" content="Mark K. Jowett, Ph.D.">
+		<meta name="author" content="Marcus Martin">
 		<link rel="icon" href="favicon.ico">
 
 		<title>My Online Portfolio</title>
@@ -70,10 +70,10 @@
 						<div class="carousel-inner">
 
 							<!-- -Note: you will need to modify the code to make it work with *both* text and images.  -->
-							<div class="active item" style="background: url(img/yourimage.jpg) no-repeat left center; background-size: cover;">
+							<div class="active item" style="background: url(img/orangecode.jpg) no-repeat left center; background-size: cover;">
 								<div class="container">
 									<div class="carousel-caption">
-										<h3>First slide label</h3>
+										<h3>First slide </h3>
 										<p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                         </div>
                       </div>

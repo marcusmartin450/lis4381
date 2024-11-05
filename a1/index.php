@@ -5,10 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" content="My online portfolio that illustrates skills acquired while working through various project requirements.">
-		<meta name="author" content="Mark K. Jowett, Ph.D.">
+		<meta name="author" content="Marcus Martin">
     <link rel="icon" href="favicon.ico">
 
-		<title>CRSXXXX - Assignment1</title>		
+		<title>Lis4381 - Assignment1</title>		
 		<?php include_once("../css/include_css.php"); ?>			
   </head>
 
@@ -22,17 +22,17 @@
 					<?php include_once("global/header.php"); ?>	
 				</div>
 				<p class="text-justify">
-					<strong>Description:</strong> The expected norm...(*be sure* to copy the assignment requirements here!) 
+					<strong>Description:</strong> In this assignment, we completed the installation of AMPPS for web application development, configured the JDK for Java programming, and set up Visual Studio Code for Java development. We also installed Android Studio and successfully created a basic Android app using Java. Finally, we pushed the local repository to Bitbucket and provided read-only access, ensuring all tools and environments are ready for future projects. The README.md file includes screenshots of the AMPPS installation, the running JDK "Hello, World" program, and the Android app 
 				</p>
 
 				<h4>Java Installation</h4>
-				<img src="img/jdk_installation.png" class="img-responsive center-block" alt="JDK Installation">
+				<img src="img/javainstallation.png" class="img-responsive center-block" alt="JDK Installation">
 
 				<h4>Android Studio Installation</h4>
-				<img src="img/Android_A1_Screenshot.png" class="img-responsive center-block" alt="Android Studio Installation">
+				<img src="img/myfirstapp.png" class="img-responsive center-block" alt="Android Studio Installation">
 
 				<h4>AMPPS Installation</h4>
-				<img src="img/ampps_installation.png" class="img-responsive center-block" alt="AMPPS Installation">
+				<img src="img/phpsetup.png" class="img-responsive center-block" alt="AMPPS Installation">
 				
 				<?php include_once "global/footer.php"; ?>
 
