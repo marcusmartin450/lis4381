@@ -8,7 +8,7 @@
 
 
 
-1. [p1 README.md](a1/p1_README.md "My p1 README.md file")
+1. [p1 README.md](lis4381/p1_README.md "My p1 README.md file")
     - Make Launcher Icon
     - Add Borders to Image and Button
     - Add background color  
