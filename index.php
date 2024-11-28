@@ -71,24 +71,31 @@
 
 							<!-- -Note: you will need to modify the code to make it work with *both* text and images.  -->
 							<div class="active item" style="background: url(img/orangecode.jpg) no-repeat left center; background-size: cover;">
+							<a href="https://www.linkedin.com/in/marcus-martin-303a8a23b/" target="_blank" style="font-size: 20px; color: white; text-decoration: none;">Click me </a>
+
 								<div class="container">
 									<div class="carousel-caption">
 										<h3>Welcome to my Portfolio </h3>
-										<p class="lead">This will direct you to my LinkedIN</p>
+										<h3 style="color: white; text-shadow: 2px 2px 4px orange;"></h3>
+										<p class="lead">View my LinkedIN</p>
                         </div>
                       </div>
                     </div>
               
 							<div class="item" style="background: url(img/bitbucket.jpg) no-repeat left center; background-size: cover;">
-								<h2>My Bitbucket</h2>
+							<a href="https://bitbucket.org/marcus_martin/workspace/overview/" target="_blank" style="font-size: 20px; color: white; text-decoration: none;">Click me </a>
+
+
+							<h2 style="color: white; text-shadow: 2px 2px 4px orange;">My Bitbucket</h2>
+
 								<div class="carousel-caption">
 									<h3>Bitbucket Repo</h3>
-									<p>Click the anywhere on the picture to view my BitBucket Repo!!.</p>									
+									<p>View my BitBucket Repo.</p>									
 								</div>
 							</div>
 
 							<div class="active item" style="background: url(img/orangefile.jpeg) no-repeat left center; background-size: cover;">
-								<h2>Learn web developement</h2>
+								<h2 style="color: white; text-shadow: 2px 2px 4px orange;">Learn Web Development</h2>
 								<div class="carousel-caption">
 									<h3>Free Resources for web development</h3>
 									<p>Click the picture to view free resources</p>								
