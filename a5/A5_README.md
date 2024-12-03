@@ -21,7 +21,13 @@
 ![Invalid Immage](img/invalid.png) 
 ##### Passed Validation
 ![Valid Data](img/valid.png)
-##### code running
+##### Simple Calculator
+![Valid Data](img/calc1.png)
+![Valid Data](img/calc2.png)
+##### Write-Read
+![Valid Data](img/writeread1.png)
+![Valid Data](img/writeread2.png)
+##### Skillset 13 code
 ![Valid Data](img/volumerun.png)
-#####  Skillsetcode Running
+#####  Skillsetcode 13 Running
 ![Valid Data](img/volumecode.png)
