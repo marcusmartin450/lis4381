@@ -11,7 +11,6 @@
 1. [A5 README.md](lis4381/A5_README.md "My A5 README.md file")
     - Turn off server side validation
     - Establish Database Connection
-    - add placeholders into fields
     - Implement add functionality into database 
 
 

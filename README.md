@@ -49,13 +49,12 @@ Updated 11/4 905
   6.  [A5 README.md](a5/A5_README.md "My A5 README.md file")
     - Turn off server side validation
     - Establish Database Connection
-    - add placeholders into fields
     - Implement add functionality into database
 
   7. [p2 README.md](lis4381/p2_README.md "My P2 README.md file")
       - Add edit/delete functionality a5
       - Update data in database
       - Create Rss page
-      - update metatags
+      
 
    
