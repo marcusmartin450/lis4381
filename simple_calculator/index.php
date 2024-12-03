@@ -9,6 +9,11 @@
     <link rel="icon" href="favicon.ico">
     <title>Simple Calculator</title>
     <?php include_once("../css/include_css.php"); ?>
+    <style>
+        body {
+            background-color: #d2b48c; /* Tan background */
+        }
+    </style>
 </head>
 <body>
 
@@ -21,48 +26,48 @@
             </div>
 
             <h2>Perform Calculation</h2>
+<form class="form-horizontal" role="form" method="post" action="process_functions.php">
+  <div class="form-group">
+    <label class="control-label col-sm-2" for="num1">Num1:</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" name="num1" id="num1" placeholder="Enter first number">
+    </div>
+  </div>
 
-            <form id="defaultForm" method="post" class="form-horizontal" action="process_functions.php">
-                <div class="form-group">
-                    <label class="col-sm-4 control-label">Num1:</label>
-                    <div class="col-sm-4">
-                        <input type="text" class="form-control" name="num1" maxlength="30" required />
-                    </div>
-                </div>
+  <div class="form-group">
+    <label class="control-label col-sm-2" for="num2">Num2:</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" name="num2" id="num2" placeholder="Enter second number">
+    </div>
+  </div>
 
-                <div class="form-group">
-                    <label class="col-sm-4 control-label">Num2:</label>
-                    <div class="col-sm-4">
-                        <input type="text" class="form-control" name="num2" maxlength="30" required />
-                    </div>
-                </div>
+  <div class="form-group">
+    <div class="col-sm-12">
+      <label class="checkbox-inline">
+        <input type="radio" name="operation" id="addition" value="addition" checked="true"> addition
+      </label>
+      <label class="checkbox-inline">
+        <input type="radio" name="operation" id="subtraction" value="subtraction"> subtraction
+      </label>
+      <label class="checkbox-inline">
+        <input type="radio" name="operation" id="multiplication" value="multiplication"> multiplication
+      </label>
+      <label class="checkbox-inline">
+        <input type="radio" name="operation" id="division" value="division"> division
+      </label>
+      <label class="checkbox-inline">
+        <input type="radio" name="operation" id="exponentiation" value="exponentiation"> exponentiation
+      </label>
+    </div>
+  </div>
 
-                <div class="form-group text-center">
-                    <div>
-                        <label class="radio-inline">
-                            <input type="radio" name="operation" value="addition" required> Addition
-                        </label>
-                        <label class="radio-inline">
-                            <input type="radio" name="operation" value="subtraction"> Subtraction
-                        </label>
-                        <label class="radio-inline">
-                            <input type="radio" name="operation" value="multiplication"> Multiplication
-                        </label>
-                        <label class="radio-inline">
-                            <input type="radio" name="operation" value="division"> Division
-                        </label>
-                        <label class="radio-inline">
-                            <input type="radio" name="operation" value="exponentiation"> Exponentiation
-                        </label>
-                    </div>
-                </div>
+  <div class="form-group">
+    <div class="col-sm-12">
+      <button type="submit" class="btn btn-default">Calculate</button>
+    </div>
+  </div>
+</form>
 
-                <div class="form-group">
-                    <div class="col-sm-6 col-sm-offset-3">
-                        <button type="submit" class="btn btn-primary">Calculate</button>
-                    </div>
-                </div>
-            </form>
 
             <?php include_once "global/footer.php"; ?>
         </div> <!-- end starter-template -->

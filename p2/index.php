@@ -16,7 +16,7 @@ $statement->execute();
     <meta name="author" content="Marcus Martin.">
     <link rel="icon" href="favicon.ico">
 
-    <title>Assignment 5</title>
+    <title>P2</title>
     <?php include_once("../css/include_css.php"); ?>
 </head>
 <body>
